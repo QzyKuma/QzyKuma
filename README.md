@@ -10,9 +10,6 @@ Here are links to my socials. Let's Connect and build an awesome future together
 <p align="left">
   <a href="https://twitter.com/CodeBr3"><img width="32px" alt="Twitter" title="Twitter" src="https://icons8.com/icon/A4DsujzAX4rw/twitterx"/>
   </a>
-  <a href="https://github.com/QzyKuma?tab=repositories">
-    <img alt="Repositories" title="QzyBear repositories" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-      </a>
 </p>
 
 <p>

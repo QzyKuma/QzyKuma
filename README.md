@@ -8,10 +8,10 @@ Here are links to my socials. Let's Connect and build an awesome future together
 
 <!-- Social badges section -->
 <p align="left">
-  <a href="https://twitter.com/CodeBr3"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/>
+  <a href="https://twitter.com/CodeBr3"><img width="32px" alt="Twitter" title="Twitter" src="https://icons8.com/icon/A4DsujzAX4rw/twitterx"/>
   </a>
   <a href="https://github.com/QzyKuma?tab=repositories">
-    <img alt="Repos" title="QzyBear repositories" src="https://creazilla.com/nodes/7914417-github-icon"/>
+    <img alt="Repositories" title="QzyBear repositories" src="https://icons8.com/icon/BfmLaUCOh7CM/github"/>
       </a>
 </p>
 

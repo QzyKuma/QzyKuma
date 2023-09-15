@@ -7,7 +7,7 @@ Here are links to my socials. Let's Connect and build an awesome future together
 
 
 <!-- Social badges section -->
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/CodeBr3"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/>
   </a>
   <a href="https://github.com/QzyKuma?tab=repositories">

@@ -10,13 +10,9 @@ Here are links to my socials. Let's Connect and build an awesome future together
 <p align="center">
   <a href="https://twitter.com/CodeBr3"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/>
   </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/QzyKuma?tab=repositories">
-    <img alt="Repos" title="QzyBear repositories" src="https://www.flaticon.com/free-icon/github-logo_25231"/>
+    <img alt="Repos" title="QzyBear repositories" src="https://creazilla.com/nodes/7914417-github-icon"/>
       </a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/>
-  </a>
 </p>
 
 ### 🧰 Languages and Tools

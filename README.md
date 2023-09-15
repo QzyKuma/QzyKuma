@@ -15,6 +15,7 @@ Here are links to my socials. Let's Connect and build an awesome future together
       </a>
 </p>
 
+<p>
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -23,3 +24,4 @@ Here are links to my socials. Let's Connect and build an awesome future together
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://icons8.com/icon/52539/github" />
+</p>

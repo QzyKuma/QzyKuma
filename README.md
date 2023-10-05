@@ -2,7 +2,7 @@
 
 **'Codesmith (Developer)'**
 
-I'm  frontend Developer that loves to explore the many possiblities that code can create for creative ideas to be born. All coding projects are built from the ground up, and also amended as my knowledge grows. 
+I'm a software engineer that loves to explore the many possiblities that code can create for creative ideas to be born. All coding projects are built from the ground up, and also amended as my knowledge grows. 
 Here are links to my socials. Let's Connect and build an awesome future together! 
 
 <!-- Social badges section -->

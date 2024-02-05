@@ -2,7 +2,7 @@
 
 **'Codesmith (Developer)'**
 
-I'm a software engineer that loves to explore the many possiblities that code can unravel. Blending artistry with algorithms, I am not just a software engineer but a digital maestro. With Javascript in my left hand and Html in my right, I craft solutions that are both elegant and robust. Passionate about continuous learning, I can the bridge between code and creativity in any team. 🚀🔍🖥️
+I'm a software engineer that loves to explore the many possiblities that code can unravel. Blending artistry with algorithms, I am not just a software engineer but a digital maestro. With Javascript in my left hand and Html in my right, I craft solutions that are both elegant and robust. Passionate about continuous learning, I can the bridge between code and creativity in any team. 🚀🔍🖥️ - PERN Stack -
 
 <!-- Social badges section -->
 <p align="left">

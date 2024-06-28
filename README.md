@@ -1,10 +1,11 @@
 # Marquez Noel 🐻
 
-**'Codesmith (Developer)'**
+As a dedicated software engineer, I explore the boundless possibilities that code reveals, harmonizing artistry with algorithms. More than just a developer, I am a digital maestro, creating solutions that are both elegant and resilient with JavaScript in one hand and HTML in the other. My passion for continuous learning drives me to bridge the gap between code and creativity, making me an invaluable asset to any team. 🚀🔍🖥️
 
-I'm a software engineer that loves to explore the many possiblities that code can unravel. Blending artistry with algorithms, I am not just a software engineer but a digital maestro. With Javascript in my left hand and Html in my right, I craft solutions that are both elegant and robust. Passionate about continuous learning, I can the bridge between code and creativity in any team. 🚀🔍🖥️ - PERN Stack -
-
-<!-- Social badges section -->
+    PERN Stack Expert
+    Innovative Thinker
+    Collaborative Team Player
+    
 <p align="left">
   <a href="https://twitter.com/CodeBr3"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>
   </a>
